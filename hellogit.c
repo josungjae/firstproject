@@ -1,5 +1,6 @@
 #include<stdio.h>  
-voidmain()  
-{  
-    printf("HelloGit!'n");  
+
+int main()  {  
+    printf("Hello Git!'n");
+    return 0;
 }
